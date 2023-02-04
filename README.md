@@ -1,5 +1,8 @@
-# deep-design
-Example deep design research projects and resources
+# Deep Design
+
+DeepDesign research agenda at the intersection of complexity science, human-centred design and deep reinforcement learning. 
+
+This is a collection of research resources across the fields of agent-based modelling, multi-agent reinforcement learning (MARL) and value-aligned mechanism design, that are helping advance a new design intelligence. 
 
 ## Economic & Monetary Policy
 - [AI Economist](https://arxiv.org/abs/2004.13332) at Salesforce Research
@@ -43,3 +46,4 @@ Example deep design research projects and resources
   - [Pytorch Lightning Trainer](https://github.com/salesforce/warp-drive/blob/master/tutorials/tutorial-7-training_with_warp_drive_and_pytorch_lightning.ipynb)
   - [AI for Global Climate Cooperation (AI4GCC)](http://www.ai4climatecoop.org/)
     - [Source code](https://github.com/mila-iqia/climate-cooperation-competition)
+- [MAVA](https://www.instadeep.com/2021/07/mava-a-new-framework-for-distributed-multi-agent-reinforcement-learning/) at InstaDeep
