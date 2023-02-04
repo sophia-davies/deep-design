@@ -2,7 +2,7 @@
 
 DeepDesign research agenda at the intersection of complexity science, human-centred design and deep reinforcement learning. 
 
-This is a collection of research resources across the fields of agent-based modelling, multi-agent reinforcement learning (MARL) and value-aligned mechanism design, that are helping advance a new design intelligence. 
+This is a collection of research resources across the fields of agent-based modelling, multi-agent reinforcement learning (MARL) and value-aligned mechanism design, from which we can advance a new design intelligence. 
 
 ## Economic & Monetary Policy
 - [AI Economist](https://arxiv.org/abs/2004.13332) at Salesforce Research
