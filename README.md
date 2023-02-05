@@ -50,3 +50,4 @@ This is a collection of research resources across the fields of agent-based mode
 
 ## Simulation Engines 
 - [HASH](https://github.com/hashintel/hash)
+- [Simudyne](https://www.simudyne.com/)
