@@ -47,3 +47,6 @@ This is a collection of research resources across the fields of agent-based mode
   - [AI for Global Climate Cooperation (AI4GCC)](http://www.ai4climatecoop.org/)
     - [Source code](https://github.com/mila-iqia/climate-cooperation-competition)
 - [MAVA](https://www.instadeep.com/2021/07/mava-a-new-framework-for-distributed-multi-agent-reinforcement-learning/) at InstaDeep
+
+## Simulation Engines 
+- [HASH](https://github.com/hashintel/hash)
