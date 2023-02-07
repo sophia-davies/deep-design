@@ -51,3 +51,6 @@ This is a collection of research resources across the fields of agent-based mode
 ## Simulation Engines 
 - [HASH](https://github.com/hashintel/hash)
 - [Simudyne](https://www.simudyne.com/)
+
+## Complexity Economics
+- [Economic Fitness](https://datacatalog.worldbank.org/search/dataset/0041694/Economic-Fitness) at World Bank
