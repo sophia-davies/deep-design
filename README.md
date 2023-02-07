@@ -30,10 +30,12 @@ This is a collection of research resources across the fields of agent-based mode
 -[Emergency Evacuation](https://research.google/pubs/pub33425/) at DeepMind
 - [Mass Movement Simulation Framework](https://www.sciencedirect.com/science/article/pii/S0968090X20306215) 
 - [Effects of Policy on Migration Systems](https://www.jasss.org/22/2/2.html) at UCL
+- Urban behaviour dynamics
 
-## Behavioural Design & Incentives 
+## Behavioural Design & Market Adoption
 - [Modelling Future Dairy & Plant-based Milk Consumption for UK Climate Targets](https://www.jasss.org/25/2/3.html) at Imperial College London
 - [Product Adoption Intention Modelling](https://www.sciencedirect.com/science/article/abs/pii/S0378720621000586)
+- Modelling technology diffusion e.g. low-carbon tech
 
 ## Value-Centred Mechanism Design 
 - [Society-in-the-loop: Programming the Algorithmic Social Contract](https://www.media.mit.edu/publications/society-in-the-loop-programming-the-algorithmic-social-contract/)
@@ -51,6 +53,9 @@ This is a collection of research resources across the fields of agent-based mode
 ## Simulation Engines 
 - [HASH](https://github.com/hashintel/hash)
 - [Simudyne](https://www.simudyne.com/)
+
+## Sustainable Cities
+- Green Infrastructure Portfolios e.g. TreesAI
 
 ## Complexity Economics
 - [Economic Fitness](https://datacatalog.worldbank.org/search/dataset/0041694/Economic-Fitness) at World Bank
