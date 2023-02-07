@@ -18,6 +18,7 @@ This is a collection of research resources across the fields of agent-based mode
 - [Washington D.C. Housing Market Bubble](https://www.bundesbank.de/resource/blob/636040/b211c9839c0c456b267d24490cfc975b/mL/2014-06-04-eltville-08-agent-based-model-of-housing-market-bubble-paper-data.pdf)
 - [ABM for LTV Caps](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2294~ee8ffa5e24.en.pdf) at European Central Bank (based on HFCS)
 - [INET Economic Simulation Library](https://github.com/INET-Complexity/ESL)
+- Emergent Bartering Behaviour of Microeconomics at DeepMind (production, consumption & trading behaviours)
 
 ## Climate Economics 
 - [AI for Global Climate Cooperation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4189735) at Salesforce Research & MILA 
