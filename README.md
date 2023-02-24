@@ -47,8 +47,6 @@ This is a collection of research resources across the fields of agent-based mode
    - [Source code](https://github.com/salesforce/warp-drive)
    - [AI Economist Covid-19 Simulation](https://github.com/salesforce/ai-economist/blob/master/tutorials/multi_agent_gpu_training_with_warp_drive.ipynb)
   - [Pytorch Lightning Trainer](https://github.com/salesforce/warp-drive/blob/master/tutorials/tutorial-7-training_with_warp_drive_and_pytorch_lightning.ipynb)
-  - [AI for Global Climate Cooperation (AI4GCC)](http://www.ai4climatecoop.org/)
-    - [Source code](https://github.com/mila-iqia/climate-cooperation-competition)
 - [MAVA](https://www.instadeep.com/2021/07/mava-a-new-framework-for-distributed-multi-agent-reinforcement-learning/) at InstaDeep
 
 ## Simulation Engines 
